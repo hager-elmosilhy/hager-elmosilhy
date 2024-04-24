@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Flutter Develpers
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart, Flutter, Mvvm , StateManagement ,Rest Api ,and Firebase, or anything related to Mobile development.
+- 💬 Ask me about my experience with Dart, Flutter, Mvvm , StateManagement (bloc(cubit),getx),Rest Api ,and Firebase, or anything related to Mobile development.
 
 
 ### Connect with Me :
